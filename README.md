@@ -1,6 +1,6 @@
 # Logistic Regression ML Pipeline with FastAPI 🚀
 
-A clean and modern ML microservice for logistic regression (GLM) using FastAPI. Built with scalability, explainability, and deployability in mind.
+A clean and modern ML microservice for logistic regression (GLM) using FastAPI. This project was built with scalability, explainability, and deployability in mind. Enjoy!
 
 ## 🔧 Project Structure
 
