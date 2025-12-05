@@ -2,6 +2,11 @@
 
 A clean and modern ML microservice for logistic regression (GLM) using FastAPI. This project was built with scalability, explainability, and deployability in mind. Enjoy!
 
+[![From Model to Production: Logistic Regression with FastAPI and Docker](https://i1.ytimg.com/vi/2kgBbyAYDTA/sddefault.jpg)](https://youtu.be/2kgBbyAYDTA "From Model to Production: Logistic Regression with FastAPI and Docker")
+
+[→ Click here to watch on YouTube](https://youtu.be/2kgBbyAYDTA)
+
+
 ## 🔧 Project Structure
 
 ```
